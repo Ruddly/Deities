@@ -13,16 +13,17 @@ Zeus:
 # Set the blocks required to build an alter.
   altarBlockTop: 138
   altarBlockBottom: 41
+# First phase of the deity. Activated when deity reaches required power.
   Phase1:
     blessing:
 # Amount of power deity must have to enter the phase.
       requiredPower: 0
-# Items received from blessing. - ID, Amount
+# Items received from blessing. (- ID, Amount)
       items:
       - 297,3
       - 50,8
       gold: 100.25 # Gold received from blessings
-# Effect received from blessing. - EffectName, Duration, Level
+# Effect received from blessing. (- EffectName, Duration, Level)
       effect:
       - SPEED,120,1
       - FAST_DIGGING,120,2
