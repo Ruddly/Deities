@@ -10,7 +10,7 @@ Power:
   fromPrayer: 1
   fromCurse: -1
 Zeus:
-# Set the blocks required to build an alter.
+# Set the blocks required to build an altar.
   altarBlockTop: 138
   altarBlockBottom: 41
 # First phase of the deity. Activated when deity reaches required power.
