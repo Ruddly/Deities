@@ -1,0 +1,80 @@
+Cooldown:
+  pray: 120
+  curse: 1440
+  follow: 4320
+  blessing: 60
+Power:
+  fromFollower: 5
+  fromPrayer: 1
+  fromCurse: -1
+Zeus:
+  altarBlockTop: 138
+  altarBlockBottom: 41
+  Phase1:
+    blessing:
+      requiredPower: 0
+      items:
+      - 297,3
+      - 50,8
+      gold: 100.25
+      effect:
+      - SPEED,120,1
+      - FAST_DIGGING,120,2
+  Phase2:
+    blessing:
+      requiredPower: 100
+      items:
+      - 265,4
+      gold: 500
+      effect:
+      - DAMAGE_RESISTANCE,300,2
+  Phase3:
+    blessing:
+      requiredPower: 300
+      items:
+      - 264,8
+      gold: 5000
+      effect:
+      - REGENERATION,30,1
+Poseidon:
+  altarBlockTop: 138
+  altarBlockBottom: 57
+  Phase1:
+    blessing:
+      requiredPower: 0
+      items: ''
+      gold: 0
+      effect: ''
+  Phase2:
+    blessing:
+      requiredPower: 0
+      items: ''
+      gold: 0
+      effect: ''
+  Phase3:
+    blessing:
+      requiredPower: 0
+      items: ''
+      gold: 0
+      effect: ''
+Hades:
+  altarBlockTop: 138
+  altarBlockBottom: 49
+  Phase1:
+    blessing:
+      requiredPower: 0
+      items: ''
+      gold: 0
+      effect: ''
+  Phase2:
+    blessing:
+      requiredPower: 0
+      items: ''
+      gold: 0
+      effect: ''
+  Phase3:
+    blessing:
+      requiredPower: 0
+      items: ''
+      gold: 0
+      effect: ''
