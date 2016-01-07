@@ -2,7 +2,6 @@
 Cooldown:
   pray: 120
   curse: 1440
-  follow: 4320
   blessing: 60
 # Set amount of power deities receive or lose from blessings and curses.
 Power:
